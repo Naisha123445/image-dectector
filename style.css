@@ -1,0 +1,17 @@
+body{
+    background-color: lavender;
+    color: deeppink;
+
+}
+.heading{
+    font-size: 22px;
+    width: 80%;
+}
+.name_of_objects{
+    color: firebrick;
+}
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed black;
+}
